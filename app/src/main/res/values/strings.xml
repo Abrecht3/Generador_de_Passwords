@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Generador de Passwords</string>
+
+    <!-- Strings usadas en activity_main.xml-->
+    <string name="title">Generador de Contraseñas</string>
+    <string name="password">Password</string>
+    <string name="lowercase">Minúsculas (a-z)</string>
+    <string name="uppercase">Mayúsculas (A-Z)</string>
+    <string name="numbers">Números (0–9)</string>
+    <string name="symbols">Símbolos</string>
+    <string name="btn_generate">Generar</string>
+
+    <!-- Strings usadas en MainActivity-->
+    <string name="toast">Selecciona al menos una opcion</string>
+    <string name="Copy">Copiado</string>
+
+</resources>
