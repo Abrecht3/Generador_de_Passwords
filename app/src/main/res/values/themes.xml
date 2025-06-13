@@ -6,7 +6,6 @@
         <item name="font">@font/roboto_semibold</item>
         <item name="android:textColor">@color/white</item>
         <item name="backgroundColor">@color/background1</item>
-        <item name="background">@drawable/background</item>
 
     </style>
 

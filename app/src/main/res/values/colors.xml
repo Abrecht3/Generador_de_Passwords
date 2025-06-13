@@ -4,8 +4,12 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Background -->
-    <color name="background1">#7e49e8</color>
-    <color name="background2">#7484dd</color>
+    <color name="background1">#DDB8FF</color>
+    <color name="background2">#9637ED</color>
+    <color name="secondaryContainer">#D1A2FF</color>
+    <color name="primaryFixedDim">#DDB8FF</color>
+    <color name="stroke_color">#F0DBFF</color>
+    <color name="button_Tint">#4D4354</color>
     <!-- Borders -->
     <color name="borders">#474747</color>
 
